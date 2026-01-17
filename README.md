@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Servlets**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **lasitha.sanuth@gmail.com**
 
