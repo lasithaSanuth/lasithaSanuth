@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=1000&height=110&lines=Undergraduate+Student+of+UNIVERSITY+OF+PERADENIYA;Driven+by+Curiosity+and+Analytical+Thinking)](https://git.io/typing-svg)
 </div>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 220px></picture>
 
 - 🌱 I’m currently learning **Spring Boot, Servlets**
 
